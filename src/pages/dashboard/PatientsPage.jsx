@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import PatientsTable from '../../Components/dashboard/PatientsTable';
-import Analytics from '../../components/dashboard/Analytics';
+import Analytics from '../../Components/dashboard/Analytics';
 import { Plus } from 'lucide-react';
 import AddPatientModal from '../dashboard/AddPatientModal';
 import { useNavigate } from 'react-router-dom';
