@@ -2,6 +2,7 @@ import React from 'react';
 import { Heart, Facebook, Twitter, Instagram, Linkedin } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
+
 export default function Footer() {
   return (
     <footer className="bg-gray-900 text-white py-12">

@@ -1,6 +1,6 @@
 import React from 'react';
 import { Outlet } from 'react-router-dom';
-import Header from '../Components/public/Header';
+import Header from '../components/public/Header';
 import Footer from '../components/public/Footer';
 
 export default function PublicLayout() {
